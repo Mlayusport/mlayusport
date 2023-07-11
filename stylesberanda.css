@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family:Times New Roman ;
+}
+body {
+    background: rgb(218, 215, 215);
+    
+}
+.form-control {
+    width: 400px;
+}
+.row-container {
+    background-color:rgb(218, 215, 215);
+    margin: 0px;
+    margin-top: 80px; 
+}
+.img-produk:hover {
+    transform: scale(1.2);
+    border: 2px solid black;
+}
+.navbar-brand{
+    font-size: 20px;
+}
+.nav-link{
+    font-size: 20px;
+}
+.card{
+    width: 190px;
+    height: 380px;
+}
+.card-title {
+    font-size: 13px;
+    text-align: left;
+    color: rgb(247, 23, 7);
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.card-text{
+    font-size: 12px;
+    text-align: left;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.footer {
+    font-size:14px;
+    color: white;
+}
+.text-decoration-none {
+    font-size: 14px;
+    color: white;
+    font: bold;
+}
+.footer-text{
+    color: white;
+font-size: 18px;
+}
+
+
+
+
+
